@@ -13,9 +13,7 @@ cd bitcoin-price-analysis-streamlit
 
 pip install -r requirements.txt
 
-Usage
 
-To use the program, run the following command:
 
 Usage
 
